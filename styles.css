@@ -1,1 +1,53 @@
 /*  your css code here. If applicable */
+
+*{
+	background-color:rgb(204, 204, 204);
+}
+
+.header-text{
+	text-align:center;
+}
+
+.song-names{
+	margin: 10px;
+	background:white;
+	border:2px solid black;
+	border-radius: 5px
+}
+
+.video-audio{
+	background-color: white;
+	margin: 10px;
+	border: 2px solid black;
+	border-radius:5px;
+	padding:10px
+}
+
+ul,li,a{
+	background-color:white;
+	text-decoration:none;
+	color: black;
+	list-style-type: none;
+
+}
+
+.player_one{
+	width:100%;
+}
+.player_two{
+	width:100%;
+	background:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
